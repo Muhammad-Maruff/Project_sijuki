@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php include ('header.php'); ?>
+<?php include ('../conf/config.php');?>
 
 <head>
   <meta charset="utf-8">
