@@ -6,7 +6,7 @@
   <!-- /.login-logo -->
   <div class="card card-outline card-primary">
     <div class="card-header text-center">
-      <a href="../../index2.html" class="h1"><b>Admin</b>LTE</a>
+      <a href="#" class="h1"><b>SIJUKI</b></a>
     </div>
     <div class="card-body">
       <p class="login-box-msg">Sign in to start your session</p>
@@ -37,7 +37,7 @@
               </label>
             </div>
           </div>
-          <!-- /.col -->
+          /.col -->
           <div class="col-4">
             <button type="submit" class="btn btn-primary btn-block">Login</button>
           </div>

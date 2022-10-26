@@ -1,5 +1,5 @@
 <?php
-$koneksi = mysqli_connect('localhost','root','','db_sijukii');
+$koneksi = mysqli_connect('localhost','root','','kinerjapegawai');
 
 
 ?>
