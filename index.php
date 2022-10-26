@@ -9,7 +9,7 @@
       <a href="#" class="h1"><b>SIJUKI</b></a>
     </div>
     <div class="card-body">
-      <p class="login-box-msg">Sign in to start your session</p>
+      <p class="login-box-msg">Sign in untuk masuk ke SIJUKI</p>
 
       <form action="conf/autentikasi.php" method="post">
         <div class="input-group mb-3">
